@@ -688,7 +688,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 194404AE92DF5356DB6E383C /* Pods-MessageJudgeTests.debug.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 49T9LAUZ2T;
+				DEVELOPMENT_TEAM = 54AXDTPUTQ;
 				INFOPLIST_FILE = MessageJudgeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.gexiao.MessageJudgeTests;
@@ -702,7 +702,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7E6F4C471C074B968F5D7C57 /* Pods-MessageJudgeTests.release.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 49T9LAUZ2T;
+				DEVELOPMENT_TEAM = 54AXDTPUTQ;
 				INFOPLIST_FILE = MessageJudgeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.gexiao.MessageJudgeTests;
@@ -824,11 +824,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = MessageJudge/MessageJudge.entitlements;
-				DEVELOPMENT_TEAM = V8XM7G4L99;
+				DEVELOPMENT_TEAM = 54AXDTPUTQ;
 				INFOPLIST_FILE = MessageJudge/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.gexiao.MessageJudge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seamlessx.hq.MessageJudge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -840,11 +840,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = MessageJudge/MessageJudge.entitlements;
-				DEVELOPMENT_TEAM = V8XM7G4L99;
+				DEVELOPMENT_TEAM = 54AXDTPUTQ;
 				INFOPLIST_FILE = MessageJudge/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.gexiao.MessageJudge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seamlessx.hq.MessageJudge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -855,11 +855,11 @@
 			baseConfigurationReference = 24AC430F2634549108DBF174 /* Pods-MessageJudgeExt.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = MessageJudgeExt/MessageJudgeExt.entitlements;
-				DEVELOPMENT_TEAM = V8XM7G4L99;
+				DEVELOPMENT_TEAM = 54AXDTPUTQ;
 				INFOPLIST_FILE = MessageJudgeExt/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.gexiao.MessageJudge.MessageJudgeExt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seamlessx.hq.MessageJudge.MessageJudgeExt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -871,11 +871,11 @@
 			baseConfigurationReference = CAEFF1AF207FD034D49CC218 /* Pods-MessageJudgeExt.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = MessageJudgeExt/MessageJudgeExt.entitlements;
-				DEVELOPMENT_TEAM = V8XM7G4L99;
+				DEVELOPMENT_TEAM = 54AXDTPUTQ;
 				INFOPLIST_FILE = MessageJudgeExt/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.gexiao.MessageJudge.MessageJudgeExt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seamlessx.hq.MessageJudge.MessageJudgeExt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 1;

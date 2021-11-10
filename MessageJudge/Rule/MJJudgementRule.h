@@ -13,7 +13,7 @@
 
 // MJExtentsionAppGroupName must be same with your App Group's name
 // (Project -> Compabilities -> App Groups)
-static NSString *MJExtentsionAppGroupName = @"group.me.gexiao.messagejudge";
+static NSString *MJExtentsionAppGroupName = @"group.com.seamlessx.hq.MessageJudge";
 static NSString *MJExtentsionRuleKey = @"MJExtentsionRuleKey";
 
 @interface MJJudgementRule : NSObject
